@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - numpy
-  - matplotlib
   - psutil
   - toolz
   - matplotlib
@@ -16,4 +15,3 @@ dependencies:
   - ipywidgets
   - scipy
   - cycler
-  - ipympl
