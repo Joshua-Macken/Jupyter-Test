@@ -12,3 +12,8 @@ dependencies:
   - partd
   - bokeh
   - dask
+  - ipynb
+  - ipywidgets
+  - scipy
+  - cycler
+  - ipympl
